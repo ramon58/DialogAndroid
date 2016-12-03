@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DialogAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="description_dialog">This is an example of a configurable dialog with styles</string>
+</resources>
